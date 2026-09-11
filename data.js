@@ -1,8 +1,8 @@
 const portfolioData = {
   "personal": {
-    "name": "Rohan Das",
+    "name": "nao",
     "title": "Full Stack Developer & DevOps Engineer",
-    "email": "rohandas.zero@gmail.com",
+    "email": "nao.zero@gmail.com",
     "github": "https://github.com/rd6260",
     "linkedin": "https://linkedin.com",
     "about": "I build digital products that combine beautiful design with robust engineering. Passionate about creating seamless user experiences and writing clean, efficient code."
@@ -40,9 +40,9 @@ const portfolioData = {
   ],
   "education": [
     {
-      "degree": "B.S. in Computer Science",
+      "degree": "B.Tech. in Computer Science",
       "institution": "University of Technology",
-      "duration": "2015 - 2019"
+      "duration": "2025 - 2029"
     }
   ]
 };
