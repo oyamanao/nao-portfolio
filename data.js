@@ -1,6 +1,6 @@
 const portfolioData = {
   "personal": {
-    "name": "nao",
+    "name": "oyama nao",
     "title": "Full Stack Developer & DevOps Engineer",
     "email": "nao.zero@gmail.com",
     "github": "https://github.com/rd6260",
